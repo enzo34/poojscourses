@@ -7,7 +7,7 @@ GestionUser is a user management system that allows administrators to manage use
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/GestionUser.git
+    git clone https://github.com/enzo34/poojscourses.git
     ```
 2. Navigate to the project directory:
     ```sh
